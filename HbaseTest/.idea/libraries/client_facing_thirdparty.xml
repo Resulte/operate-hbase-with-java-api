@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="client-facing-thirdparty">
+    <CLASSES>
+      <root url="file://$USER_HOME$/BigData/hbase-2.3.7/lib/client-facing-thirdparty" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$USER_HOME$/BigData/hbase-2.3.7/lib/client-facing-thirdparty" recursive="false" />
+  </library>
+</component>
